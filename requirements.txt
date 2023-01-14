@@ -1,0 +1,6 @@
+asposestorage==1.0.2
+numpy==1.24.1
+opencv_python==4.5.5.64
+rknn_toolkit2==1.4.0_22dcfef4
+torch==1.10.1
+utils==1.0.1
